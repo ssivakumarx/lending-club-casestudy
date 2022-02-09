@@ -5,7 +5,6 @@ The loan dataset in the case study contains information about past loan applican
 ## Table of Contents
 
 * [Technologies Used](#technologies-used)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
